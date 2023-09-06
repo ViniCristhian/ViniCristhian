@@ -9,6 +9,3 @@ Here are some ideas to get you started:
 - 👯 I’m try to collaborate with the solution of problems and better management of the team.
 - 🤔 I’m looking for help with the development of new resources in the area.
 - 💬 Ask me about: How do I feel with the team? What you like to do, watch, play, etc.
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
