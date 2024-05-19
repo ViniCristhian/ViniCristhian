@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 Eu estou aprendendo atualmente Java e estou gostando muito da linguagem, atualmente esteu estudando por conta prorpia, lendo livros e vendo videos, para compreender melhor a limguagem Java. E estou iniciando meu Curso Técnico em Informática na instituição de ensino ENIAC.
+- 🌱 Eu estou aprendendo Java e estou gostando muito da linguagem, atualmente esteu estudando por conta prorpia, lendo livros e vendo videos, para compreender melhor a limguagem Java. E atualmente eu consegui entrar em um bootcamp da DIO, em parceria com o Santander, e nele estou aprendendo bastante, sobre a linguagem Java. E estou iniciando meu Curso Técnico em Informática na instituição de ensino ENIAC.
 
 ## Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-c-440621274/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ViniCristhian)
