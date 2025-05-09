@@ -1,7 +1,3 @@
-### Hi there 👋
-
-- Olá, meu nome é Vinícius Cristhian, sou estudante de Análise e Desenvolvimento de Sistemas no IFSP e da Generation Brasil, como pessoa Desenvolvedora Fullstack, com foco em Java e o framework Spring para o desenvolvimento do Backend, e, HTML/CSS, Javascript/Typescript e o framework React.Js para o desenvolvimento do Frontend.
-
 ## Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-c-440621274/) 
 
