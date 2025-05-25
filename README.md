@@ -15,6 +15,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no IFSP e da Generation 
 
 ## Ferramentas e Tecnologias
 
+<div style="display: flex; align-items: center; gap: 6px;"> 
+
 #### Linguagens
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" />
@@ -32,6 +34,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no IFSP e da Generation 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" />
+
+</div>
 
 ---
 
