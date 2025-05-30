@@ -2,16 +2,11 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas no IFSP e da Generation Brasil, como pessoa Desenvolvedora Fullstack, com foco em Java e o framework Spring para o desenvolvimento do Backend, e, HTML/CSS, Javascript/Typescript e o framework React.Js para o desenvolvimento do Frontend.
 
-<div style="display: flex; align-items: center; gap: 6px;">
+#### Contato:
 
-<h4>Contato: </h4>
+<a href = "mailto:viniciuscristhian34@gmail.com"> <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
 
-<a href = "mailto:viniciuscristhian34@gmail.com">
-<img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</a> 
-<a href="https://www.linkedin.com/in/vinicristhian/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-</div>
+<a href="https://www.linkedin.com/in/vinicristhian/" target="_blank"> <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
 
 ---
 
