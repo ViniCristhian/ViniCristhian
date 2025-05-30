@@ -7,7 +7,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no IFSP e da Generation 
 <h4>Contato: </h4>
 
 <a href = "mailto:viniciuscristhian34@gmail.com">
-<img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/vinicristhian/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a> 
+<a href="https://www.linkedin.com/in/vinicristhian/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 </div>
 
@@ -41,5 +43,17 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no IFSP e da Generation 
 
 ## GitHub Status
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViniCristhian&show_icons=true&theme=radical)](https://github.com/ViniCristhian)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniCristhian&layout=compact&theme=radical)](https://github.com/ViniCristhian)
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 6px;">
+<div>
+  
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViniCristhian&show_icons=true&theme=tokyonight)](https://github.com/ViniCristhian)
+  
+</div>
+
+<div>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniCristhian&layout=compact&theme=tokyonight)](https://github.com/ViniCristhian)
+  
+</div>
+
+</div>
