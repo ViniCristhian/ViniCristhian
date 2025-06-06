@@ -8,6 +8,15 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no IFSP e da Generation 
 
 ---
 
+<div align="center">
+
+| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViniCristhian&show_icons=true&theme=tokyonight)](https://github.com/ViniCristhian) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniCristhian&layout=compact&theme=tokyonight)](https://github.com/ViniCristhian) |
+| ----------- | ----------- |
+
+</div>
+
+---
+
 ## Ferramentas e Tecnologias
 
 <div style="display: flex; align-items: center; gap: 6px;"> 
@@ -29,24 +38,5 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no IFSP e da Generation 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" />
-
-</div>
-
----
-
-## GitHub Status
-
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 6px;">
-<div>
-  
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViniCristhian&show_icons=true&theme=tokyonight)](https://github.com/ViniCristhian)
-  
-</div>
-
-<div>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniCristhian&layout=compact&theme=tokyonight)](https://github.com/ViniCristhian)
-  
-</div>
 
 </div>
