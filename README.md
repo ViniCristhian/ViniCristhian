@@ -1,7 +1,7 @@
 # Olá, eu sou Vinicius Cristhian 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas no IFSP. Conclui o bootcamp da Generation Brazil, como pessoa Desenvolvedora Java Fullstack, com foco em Java e o framework Spring para o desenvolvimento do Backend, e, HTML/CSS, Javascript/Typescript e o framework React.Js para o desenvolvimento do Frontend. Sou apaixonado por programação e estou sempre em busca de aprimorar minhas habilidades.
-Atualmente, estou em busca de uma oportunidade de estágio ou júnior na área de desenvolvimento de software, onde possa aplicar meus conhecimentos e contribuir para o sucesso da equipe e empresa.
+Estudante de Análise e Desenvolvimento de Sistemas com formação complementar focada na criação e estruturação de soluções tecnológicas. Sou motivado a aprimorar constantemente minhas habilidades e busco uma oportunidade para aplicar meus conhecimentos e contribuir com o sucesso da empresa e equipe.
+Minha trajetória profissional traz uma sólida experiência em atendimento ao cliente, rotinas administrativas e alimentação de sistemas. Possuo vivência prática na elaboração de documentos, gestão de faturamento , organização de planilhas e na instrução de novos colaboradores para o uso de plataformas internas, competênciass que fortalecem minha capacidade de organização, comunicação e otimização de processos no ambiente corporativo. 
 
 #### Contato:
 
